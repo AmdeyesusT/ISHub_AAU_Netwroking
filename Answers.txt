@@ -1,0 +1,76 @@
+1. What is networking in the context of computer systems?
+	Answer: Networking is the method or practice that connects different devices(same or different) to share data and information.
+
+2. Why is networking important in modern computing environments?
+	Answer: It is important because it is ingrained in our day to day lives. Whether it is talking on the phone, using the internet, watching the news, everything relies heavily on the connection and sharing of information using networking.
+
+3. (Multiple Choice)
+	Which of the following best describes computer networking?
+	A. Sharing of hardware only
+	B. Sharing of data and resources between computers
+	C. Connecting only to the internet
+	D. None of the above
+	Answer: B.
+
+4. Differentiate between a network and the internet.
+	Answer: A network is a connection between devices. It may be multiple computers with each other, to share resources like a printer, or to enable communication between people(Telephones).
+		The internet is a collection of networks that connects every device in the world with any device. It has the same uses as a network but at a large scale and with different governing protocols like TCP/IP, DHCP, etc.
+
+5. Is the internet a type of network or a collection of networks? Explain.
+	Answer: It is a collection of networks. That is because in most places like companies, internet cafes, home networks etc.. all the users' devices connect to a LAN (like a router) which gives the devices an IP address and connects to the internet on their behalf. In fact the word Internet came from "Interconnected Networks" because it could different networks like LAN, WAN, MAN etc.
+
+6. What are some common uses of the internet in networking? (Mention at least 3)
+	Answer: File and resource sharing, Communication, and Ecommerce.
+7. Name and briefly describe any three network topologies.
+	Answer: 
+		Star Topology- All devices are connected to a central hub. Not very useful if the hub becomes damaged.
+		Bus Topology- All devices connect to one cable which they use to share data. Not very useful if the cable is damaged.
+		Tree Topology- It combines Star and Bus Topologies. It has a central hub whose branches become their own central hub to other devices. Not very useful if the main central hub is damaged.
+
+8. (Multiple Choice)
+	In which topology does every device connect to a central hub or switch?
+	A. Ring
+	B. Star
+	C. Mesh
+	D. Bus
+	Answer: B.
+
+9. What are the advantages and disadvantages of mesh topology?
+	Answer: 
+		Advantages
+	- It is highly secure and has high bandwidth.
+	- Very reliable because if one path fails, it can be rerouted to pass through another device.
+		Disadvantages
+	- Very Expensive
+	- Complex to implement
+
+10. Define the following network types: LAN, MAN, and WAN.
+	Answer: 
+		LAN- It is called Local Area Network and it covers a small geographical area like a home. It is high speed with low cost.
+		MAN- It is called Metropolitan Area Network and it covers a city or large campus. It is usually owned by an organization or company and it is bigger than LAN but smaller than WAN. 
+		WAN- It is called Wide Area Network and covers a large geographical area, like cities or countries. It is lower speed than LAN and more expensive and complex to implement.
+
+11. Which type of network is most commonly used in schools and small offices? Why?
+	Answer: LAN is used in those areas because it has high speeds with low cost. Also since it only covers a small area, it is easier to protect using Firewall or any other cyber protective systems.
+
+12.(Multiple Choice)
+	Which network type covers the largest geographical area?
+	A. LAN 
+	B. PAN 
+	C. MAN
+	D. WAN
+	Answer: D.
+
+13. List and define the function of any four common networking devices.
+	Answers: 
+		Firewall- It monitors the traffic for any potential security issues.
+		Switch- It controls traffic and forwards it to the correct mac address.
+		Router- It is used to connect multiple networks together wired or wirelessly. It uses IP addressing and routing protocols to forward data.
+		Modem- It translates the digital data used in most devices to analog data which is understood by the Internet Service Provider.
+
+14. What is the difference between a switch and a hub?
+	Answer: They are mainly similar but a switch is more modern and advanced so it replaced Hubs. While both connect devices and share data to them, switches do it more efficiently by learning and storing mac addresses, intelligent forwarding etc.
+
+15.(True/False)
+	A router is used to connect different networks together.
+	Answer: False.
